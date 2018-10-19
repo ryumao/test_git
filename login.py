@@ -6,4 +6,4 @@ num = 30
 
 num = 50
 
-num = 55
+num = 70
